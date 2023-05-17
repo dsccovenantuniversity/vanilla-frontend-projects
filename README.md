@@ -33,7 +33,7 @@ When you see a project you'd like to complete, simply:
 - [ ] [Make a fork](https://github.com/dsccovenantuniversity/vanilla-frontend-projects/fork) of the repo, then create a new branch called `firstname-lastname`
 - [ ] Create a folder named `firstname-lastname-projectname` for your project in your branch
 - [ ] Put all your assets, like your source code, images, and stylesheets, in the folder
-- [ ] Create a [pull request](https://github.com/dsccovenantuniversity/learning-project-guide/compare) and request a review to get it merged (don't forget to compare across forks!)
+- [ ] Create a [pull request](https://github.com/dsccovenantuniversity/vanilla-frontend-projects/compare) and request a review to get it merged (don't forget to compare across forks!)
 
 ## Projects
 
